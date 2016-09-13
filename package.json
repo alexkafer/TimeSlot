@@ -1,0 +1,25 @@
+{
+  "name": "timeslot",
+  "version": "0.0.1",
+  "description": "Provides the backend and interface for a simple timeslot manager and queue system. Allows people to regsiter for timeslots and if they do not check in by their time, the server will automatically provide access to the next on the waitlist",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkafer/TimeSlot.git"
+  },
+  "keywords": [
+    "timeslot",
+    "queue",
+    "waitlist"
+  ],
+  "author": "Alex Kafer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexkafer/TimeSlot/issues"
+  },
+  "homepage": "https://github.com/alexkafer/TimeSlot#readme"
+}
